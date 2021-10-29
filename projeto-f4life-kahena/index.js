@@ -1,14 +1,16 @@
-//function recebePalavra(palavra) {
-//     if (palavra[index] == 'a' || 'e' || 'i' || 'o' || 'u') {
-//         for (let index = 0; index < palavra.length; index++) {
-//         palavra[index] == 'a' || 'e' || 'i' || 'o' || 'u'
-//         console.log(palavra[index])
-//         }
-//     } else {
-//         for (let index = 0; index < palavra.length; index++) {
-//             palavra[index] !== 'a' || 'e' || 'i' || 'o' || 'u'
-//             console.log(palavra[index])
-//         }
-// }
+const nav = document.querySelector('#header nav')
+const toggle = document.querySelectorAll('nav .toggle')
 
-// recebePalavra(alvo)
+for (const element of toggle) {
+  element.addEventListener('click', function () {
+    nav.classList.toggle('show')
+  })
+}
+
+const links = document.querySelectorAll('nav ul li a')
+
+for (const link of links) {
+  link.addEventListener('click', function () {
+    nav.classList.remove('show')
+  })
+}
