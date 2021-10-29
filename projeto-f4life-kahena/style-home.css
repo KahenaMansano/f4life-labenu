@@ -15,6 +15,7 @@ a {
 img {
   width: 100%;
   height: auto;
+  border-radius: 0.25rem;
 }
 
 :root {
@@ -246,11 +247,26 @@ nav.show div.icon-close {
   margin-bottom: 2rem;
 }
 
-#about .container {
-  margin: 0;
+#about .text {
+  margin-left: 1.5rem;
+  margin-right: 1.5rem;
+  text-align: center;
 }
 
-#about .bloco {
+#about .text h1 {
+  margin-bottom: 1rem;
+}
+
+#about .text p {
+  margin-bottom: 2rem;
+}
+
+#grid {
+  position: relative;
+  margin-top: 1.5rem;
+}
+
+#grid .bloco {
   display: grid;
   grid-auto-columns: max-content;
   grid-column: span 13 / auto;
@@ -261,7 +277,7 @@ nav.show div.icon-close {
   justify-items: stretch;
 }
 
-#about .bloco .primeira {
+#grid .bloco .primeira {
   margin-left: 30px;
   margin-right: -30px;
   height: 270 px;
@@ -273,7 +289,7 @@ nav.show div.icon-close {
   flex: 1 1 auto;
 }
 
-#about .bloco .segunda {
+#grid .bloco .segunda {
   margin-left: 30px;
   margin-right: -30px;
   height: 220 px;
@@ -284,7 +300,7 @@ nav.show div.icon-close {
   grid-auto-columns: max-content;
 }
 
-#about .bloco .terceira {
+#grid .bloco .terceira {
   margin-left: 30px;
   margin-right: -30px;
   height: 165 px;
@@ -298,7 +314,7 @@ nav.show div.icon-close {
   place-content: stretch;
 }
 
-#about .bloco .quarta {
+#grid .bloco .quarta {
   margin-left: 60px;
   margin-right: -60px;
   height: 165 px;
@@ -312,7 +328,7 @@ nav.show div.icon-close {
   place-content: stretch;
 }
 
-#about .bloco .quinta {
+#grid .bloco .quinta {
   margin-left: 60px;
   margin-right: -60px;
   height: 165 px;
@@ -326,7 +342,7 @@ nav.show div.icon-close {
   place-content: stretch;
 }
 
-#about .bloco .sexta {
+#grid .bloco .sexta {
   margin-left: 60px;
   margin-right: -60px;
   height: 220 px;
@@ -340,15 +356,11 @@ nav.show div.icon-close {
   place-content: stretch;
 }
 
-#about .text {
-  margin-left: 1.5rem;
-  margin-right: 1.5rem;
-}
-
 .divider-2 svg {
   background-color: white;
   margin-bottom: 0;
   padding: 0;
+  display: block;
 }
 
 #services {
@@ -371,7 +383,7 @@ nav.show div.icon-close {
   display: block;
   margin-bottom: 1.5rem;
   font-size: 5rem;
-  color: var(--base-color);
+  color: var(--cor-primaria);
 }
 
 .card .title {
