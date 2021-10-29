@@ -1,0 +1,128 @@
+
+.imagem-container{
+
+width: 210px;
+height: 210px;
+flex-direction: column;
+border: 1px solid black;
+ 
+
+}
+ h2{
+    margin: 20px;
+    background-color:darkolivegreen;
+} 
+.header2{
+    width: 900px;
+    margin: 0 auto;
+
+}
+
+.icone{
+    color: darkgray;
+    border-bottom: 2px solid darkgrey;
+    height: 80px;
+    display: flex;
+    align-items: flex-end
+
+
+}
+
+
+.menu ul li{
+    display: inline-block;
+    margin-left: 30px;
+
+}
+.menu ul li a{
+    color: darkgrey;
+    font-size: 20px;
+}
+.menu ul li a:hover{
+
+    text-decoration: none;
+    font-size: 21px;
+    color: darkseagreen;
+}
+.icone-dinheiro{
+    display: flex;
+    margin: 20px;
+    font-size: 20px;
+    align-items: center;
+    color: coral;
+
+
+}
+img{
+    width: 50px;
+    
+    
+}
+
+
+.card-imagem{
+ width: 250px;
+ height: 310px;
+ border: 1px solid darkolivegreen;
+ display: grid;
+ justify-items: center;
+ 
+
+ 
+}
+.imagem{
+   width: 250px;
+
+    
+}
+main{
+    display: grid;
+    grid-template-columns: repeat(3, 2fr);
+    gap: 20px;
+    margin: 20px;
+    align-content: center;
+    margin: 50px;
+
+}
+h3{
+    display: flex;
+    align-items: flex-end
+
+}
+button{
+    color: darkolivegreen;
+    display: flex;
+    align-items: center;
+    margin: 20px;
+
+
+}
+
+a{
+    color:coral;
+    font-size: 20px;
+    
+}
+p{
+    border: 1px solid bisque;
+    display: flex;
+    text-align: center;
+}
+    
+div{
+    display: grid;
+    flex-wrap: wrap;
+
+
+}
+
+
+
+@media screen and (max-device-width : 480px) {
+.card-imagem{
+    grid-template-columns: 1fr;
+}
+.imagem{
+    height: 100px;
+}
+}
