@@ -6,7 +6,7 @@
  <a href="#objetivo">Objetivo</a> •
  <a href="#roadmap">Roadmap</a> • 
  <a href="#tecnologias">Tecnologias</a> • 
- <a href="#contribuicao">Contribuições</a> • 
+ <a href="#contribuicao">Contribuições</a> 
 </p>
 
 <div id="objetivo">
