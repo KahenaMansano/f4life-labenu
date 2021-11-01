@@ -32,6 +32,6 @@
 <p>Estamos ansiosas pela avaliação da equipe de QA da Labenu!</p>
 </div>
  
-<p>Quer ver o resultado do nosso trabalho?<a href="https://giant-sky.surge.sh/" target="_blank">Clique aqui</a>.</p>
+<p>Quer ver o resultado do nosso trabalho? <a href="https://giant-sky.surge.sh/" target="_blank">Clique aqui</a>.</p>
 
 <p>“A única habilidade competitiva de longo prazo é a capacidade de aprender.”</p>
