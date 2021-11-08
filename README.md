@@ -29,7 +29,7 @@
 <p>Trabalhamos em dupla, dividindo o projeto em duas partes:</p>
 <p>A Kahena foi responsável pela tela inicial, que contém a home, sobre, vantagens e contato. Determinando assim o estilo do site, fonts, background, header e footer, utilizado também na segunda tela.</p>
 <p>A segunda tela, de busca, foi finalizada pela Mayra, que contém alguns imóveis disponíveis na plataforma para locação.</p>
-<p>O trabalho está disponível<a href="http://giant-sky.surge.sh/" target="_blank">aqui</a>.<p>
+<p>O trabalho está disponível <a href="http://giant-sky.surge.sh/" target="_blank">aqui</a>.<p>
 <p>Estamos ansiosas pela avaliação da equipe de QA da Labenu!</p>
 </div>
 
