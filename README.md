@@ -1,12 +1,14 @@
-<div style="text-align:center"><img src="assets/logo-f4life-sem-fundo.png" height=300px/></div>
-<h1 style="text-align:center">Projeto F4Life</h1>
-<h3 style="text-align:center">Site de busca de moradias em imóveis desenvolvidos para compartilhamento.<h3>
-<div style="text-align:center"><img src="https://img.shields.io/badge/-processo%20de%20aprendizagem-yellow"> <img src="https://img.shields.io/badge/-HTML-orange"> <img src="https://img.shields.io/badge/-CSS-blue"> <img src="https://img.shields.io/badge/-JS-yellow"></div>
+<div align="center"><img src="assets/logo-f4life-sem-fundo.png" height=300px/></div>
+<h1 align="center">Projeto F4Life</h1>
+<h3 align="center">Site de busca de moradias em imóveis desenvolvidos para compartilhamento.<h3>
+<div align="center"><img src="https://img.shields.io/badge/-processo%20de%20aprendizagem-yellow"> <img src="https://img.shields.io/badge/-HTML-orange"> <img src="https://img.shields.io/badge/-CSS-blue"> <img src="https://img.shields.io/badge/-JS-yellow"></div>
 <p align="center">
  <a href="#objetivo">Objetivo</a> •
  <a href="#roadmap">Roadmap</a> • 
  <a href="#tecnologias">Tecnologias</a> • 
- <a href="#contribuicao">Contribuições</a>
+
+ <a href="#contribuicao">Contribuições</a> 
+
 </p>
 
 <div id="objetivo">
@@ -32,5 +34,7 @@
 <p>O trabalho está disponível <a href="http://giant-sky.surge.sh/" target="_blank">aqui</a>.<p>
 <p>Estamos ansiosas pela avaliação da equipe de QA da Labenu!</p>
 </div>
+ 
+<p>Quer ver o resultado do nosso trabalho? <a href="https://giant-sky.surge.sh/" target="_blank">Clique aqui</a>.</p>
 
 <p>“A única habilidade competitiva de longo prazo é a capacidade de aprender.”</p>
