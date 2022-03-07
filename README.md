@@ -26,6 +26,6 @@
 <p>Utilizei principalmente o HTML e o CSS, o JS foi necessário para trazer responsividade.</p>
 </div>
  
-<p>Quer ver o resultado do projeto? <a href="https://giant-sky.surge.sh/" target="_blank">Clique aqui</a>.</p>
+<p>Quer ver o resultado do projeto? <a href="https://f4life-labenu.surge.sh/" target="_blank">Clique aqui</a>.</p>
 
 <p>“A única habilidade competitiva de longo prazo é a capacidade de aprender.”</p>
